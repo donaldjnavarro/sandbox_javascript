@@ -1,3 +1,7 @@
+// A command-line interface that prompts the user for inputs
+//
+// DESIGN: Users are prompted with text and can input numbers to select from a numbered list
+
 const prompt = require('prompt-sync')();
 
 //////////////////////////////////////////////
